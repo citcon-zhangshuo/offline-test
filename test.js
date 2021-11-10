@@ -1,6 +1,5 @@
-test.js
-upload
-test by remote
+import React, { Component } from 'react';
 
-import React, { PureComponent } from 'react';
-
+export default ()=>{
+    return <div>hello </div>
+}
