@@ -1,2 +1,2 @@
 # offline-test
-offline
+Offline-and-shared-product  test
