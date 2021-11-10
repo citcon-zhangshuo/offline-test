@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "merchant_registration": {
+        "vendor_key": "7A8EB145D6410E18B3C720F1F22C21E9",
+        "register_merchant_type": "ENTERPRISE",
+        "online_merchant_site_type": "WEB",
+        "online_merchant_site_url": "www.citconhhy29.com"
+    },
+    "merchant_info": {
+        "ownership": "Corporation",
+        "website": "www.citconhhy29.com",
+        "legal_address": "leaddress_001028",
+        "currency": "USD",
+        "wechatpay_mcc": "5331",
+        "alipay_mcc": "5331",
+        "product_name": "product_name_28",
+        "wechat_sub_mch_id": "111222333",
+        "alipay_sub_mch_id": "22211133355",
+        "converge_mch_id": "",
+        "converge_user_id": "",
+        "converge_pin": "",
+        "credorax_id": "",
+        "store_taxi_driver_id": "",
+        "store_taxi_driver_name": "",
+        "pos_system": "pos system129",
+        "gateway_middleware": "middle",
+        "card_acquirer": "card",
+        "payment_terminal": "terminal",
+        "ecomm_platform": "ecomm",
+        "ecomm_gateway_middleware": "ecomm middle",
+        "static_dynamic_ip": "192.2.2.49"
+    }
+}
